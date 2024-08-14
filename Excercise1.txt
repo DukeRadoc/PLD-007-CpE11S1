@@ -1,0 +1,41 @@
+1. 
+Q : What is a computer?
+A : In its bare deffinitions a computer is a device made to store, process, and display data as needed by the user. from desktops to phones and all the way to abaccus: all are considered computers.
+
+2.
+Q : What are the essential parts of a computer?
+A : What i would consider to be essential parts of a computer is first the computer itself in all its many parts in the power source, motherboard, storage unit, etc 
+As well as a way to interact with the computer or the mouse and keyboard, 
+and finally a way to display it such as the monitors.
+
+3.
+Q : Who are the noteable inventors of hardware and software? cite atleast 5 software developers and 5 hardware developers
+A : 
+Hardware:
+My most noteable and i think underrated names in the hardware game is 
+american engineer "Douglas Englebert" with his co-inventor: swiss computer programmer "Rene Sommer", "Jean-Daniel Nicoud", and "Andre Guignard" or the team behind THe Mousee.
+and another one would be "Philip Don Estrige" or Don estrige whos also knows as "The father of IBM" or the computers behind our history that was used by the government to handle all sorts of things from aeronautical, defense systems, and the IBM 7094 which was used to have robots sing for the first time.
+Software :
+For soft ware developers the people that stuck out to me the most has to be 
+the face of facebook himself mr "Mark Zuckerberg" practically the man behind 20th century streamlined social media that exploded what its predecessors "friendster", "myspace" and other websites couldnt.
+Another big name would be "Bill Gates" and "Paul G. Allen". the two people behind microsoft. the leading software aside from our other competitor "Tim Cook" or the head behing apple.
+although not as revolutionary as the others "Ellon Musk" deserves as spot on this list for as of today hes spear heading the AI race to its capacity and it is obviously the next step into our technology.
+
+4.
+Q : Cite your references
+A : 
+Britanica :
+Swaine, Michael R. , Hemmendinger, David , Pottenger, William Morton and Freiberger, Paul A.. "computer". Encyclopedia Britannica, 4 Jul. 2024, https://www.britannica.com/technology/computer. Accessed 14 August 2024.
+
+Hall, Mark. "Douglas Engelbart". Encyclopedia Britannica, 28 Jun. 2024, https://www.britannica.com/biography/Douglas-Engelbart. Accessed 14 August 2024.
+
+Britannica, The Editors of Encyclopaedia. "Mark Zuckerberg." Encyclopedia Britannica, 13 Aug. 2024, https://www.britannica.com/money/Mark-Zuckerberg. Accessed 14 August 2024.
+
+Gregersen, Erik. "Tim Cook." Encyclopedia Britannica, 19 Jul. 2024, https://www.britannica.com/money/Tim-Cook. Accessed 14 August 2024.
+
+Britannica, The Editors of Encyclopaedia. "Microsoft Windows". Encyclopedia Britannica, 11 Aug. 2024, https://www.britannica.com/technology/Microsoft-Windows. Accessed 14 August 2024.
+
+wiki :
+https://en.wikipedia.org/wiki/Ren%C3%A9_Sommer
+
+https://en.wikipedia.org/wiki/Philip_Don_Estridge
