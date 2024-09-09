@@ -17,7 +17,7 @@ int main()
   	//calculation of difference
   	difference=(num1-num2-num3);
   	//calculation of quotient
-    quotient=(num1)/(num2)/(num3);
+    quotient=(num1/num2/num3);
   	// calculation of remainder
     remainder=(num1%num2%num3);
 		
