@@ -4,33 +4,34 @@ using namespace std;
 int main()
 {
 	//local variables
-	int num1=0, num2=0, num3=0, num4=0, average=0, sum=0, difference=0, quotient=0, remainder=0;
+	int x=4, y=2, average=0, sum=0, difference=0, quotient=0, remainder=0;
 	
-	cout<<"input num1:"; cin>>num1;
-	cout<<"input num2:"; cin>>num2;
-	cout<<"input num3:"; cin>>num3;
-	
+	cout<<"X value is 4"<<endl;
+	cout<<"Y value is 2"<<endl;
+
+	cout<<""<<endl;
+
 	//calculation of average
-	  average=(num1+num2+num3)/3.0;
+		average=(x+y)/2;
   	//calculation of sum
-    sum=(num1+num2+num3);
+   	 	sum=(x+y);
   	//calculation of difference
-  	difference=(num1-num2-num3);
+  		difference=(x-y);
   	//calculation of quotient
-    quotient=(num1/num2/num3);
+    		quotient=(x/y);
   	// calculation of remainder
-    remainder=(num1%num2%num3);
+    		remainder=(x%y);
 		
 	//print the results
-	cout<<"the input average is "<<average ;
+		cout<<"the input average is "<<average<<endl;
 	//print the results
-	cout<<"the input sum is "<<sum ;
+		cout<<"the input sum is "<<sum<<endl;
 	//print the results
-	cout<<"the input difference is "<<difference ;
+		cout<<"the input difference is "<<difference<<endl;
  	//print the results
-  cout<<"the input quotient is "<<quotient ;
+  		cout<<"the input quotient is "<<quotient<<endl;
   	//print the results
-  cout<<"the input remainder is "<<remainder ;
+  		cout<<"the input remainder is "<<remainder<<endl;
 	
 	return 0;
 }
