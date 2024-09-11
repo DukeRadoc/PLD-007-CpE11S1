@@ -2,15 +2,12 @@
 using namespace std;
 
 int main()
-{
-//Declaring Values		
+{	
 		int grade=0;
 
-//inputting of Values
 		cout<<"Input Grade :";
 		cin>>grade;
 		
-//Evaluation of grade
 		if((grade>=94)&&(grade<=100))
 			{cout<<"Excellent | 1.00";}
 		else if((grade>=88.5)&&(grade<=93.99))
@@ -32,6 +29,5 @@ int main()
 		else
 			{cout<<"Failed";}
 			
-//program end	
 	return 0;
 }
