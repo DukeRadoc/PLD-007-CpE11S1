@@ -23,7 +23,7 @@ int main()
 	cin>>target;
 	
 	int result = linearSearch(arr, size, target);
-	if ( result != 1)
+	if ( result !=-1)
 	{
 		cout<<"Element Found at Index : " <<result<<endl;
 	}
